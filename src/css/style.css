@@ -231,7 +231,7 @@ header .header .header_center nav ul li.button:hover a {
 }
 
 .join_form .form form .btn-box {
-    background: #fff;
+    background: linear-gradient(#47ba8e, #1db1c9);
 }
 
 .join_form .form form .inactive {
